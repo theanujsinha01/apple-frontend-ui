@@ -1,6 +1,6 @@
 <h1> Apple Frontend UI Link</h1>
 
-https://theanujsinha01.github.io/apple-frontend-ui/
+https://applefrontendui.netlify.app/
 
 <h1> Apple Frontend UI </h1>
 
