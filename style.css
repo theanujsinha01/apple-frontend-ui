@@ -525,7 +525,7 @@ nav i{
         flex-direction: column;
         position: absolute;
         gap: 0.7vh;
-        top: 250%;
+        top: 225%;
         color:#f2f2f2;
 
     }
@@ -570,7 +570,7 @@ nav i{
         flex-direction: column;
         position: absolute;
         /* gap: 0.7vh; */
-        top: 347%;
+        top: 300%;
         color:#1D1D1F;
 
     
@@ -583,7 +583,7 @@ nav i{
         flex-direction: column;
         position: absolute;
         gap: 0.7vh;
-        top: 350%;
+        top: 325%;
         color:#f2f2f2;
     }
      .text-part5-2{
@@ -593,7 +593,7 @@ nav i{
         flex-direction: column;
         position: absolute;
         gap: 0.7vh;
-        top: 400%;
+        top: 380%;
         color:#1D1D1F;
     }
     .text-part6-1{
@@ -603,7 +603,7 @@ nav i{
         flex-direction: column;
         position: absolute;
         gap: 0.3vh;
-        top: 505%;
+        top: 485%;
         color:#1D1D1F;
     }
     .text-part6-2{
@@ -613,7 +613,7 @@ nav i{
         flex-direction: column;
         position: absolute;
         gap: 0.3vh;
-        top: 595%;
+        top: 575%;
         color:#1D1D1F;
     }
 
@@ -663,13 +663,13 @@ nav i{
         
       }
       .section1{
-        top: 650%;
+        top: 550%;
         width: 85%;
         
       }
       .section3{
         left: 50%;
-        top: 680%;
+        top: 640%;
         width: 90%;
        
        
