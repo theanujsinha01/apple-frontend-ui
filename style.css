@@ -593,7 +593,7 @@ nav i{
         flex-direction: column;
         position: absolute;
         gap: 0.7vh;
-        top: 453%;
+        top: 473%;
         color:#1D1D1F;
     }
     .text-part6-1{
@@ -603,7 +603,7 @@ nav i{
         flex-direction: column;
         position: absolute;
         gap: 0.3vh;
-        top: 460%;
+        top: 510%;
         color:#1D1D1F;
     }
     .text-part6-2{
@@ -613,7 +613,7 @@ nav i{
         flex-direction: column;
         position: absolute;
         gap: 0.3vh;
-        top: 550%;
+        top: 600%;
         color:#1D1D1F;
     }
 
@@ -669,7 +669,7 @@ nav i{
       }
       .section3{
         left: 50%;
-        top: 830%;
+        top: 810%;
         width: 90%;
        
        
